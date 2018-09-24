@@ -1,0 +1,5 @@
+/app/node_modules/
+/app/.npmignore
+/app/package-lock.json
+/app/www/js/bundle.js
+/.vscode
